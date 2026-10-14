@@ -6,7 +6,7 @@ Marine Electrical Systems • Electrical Installation • Testing & Commissionin
 
 *13+ years of experience • Approximately 25 newbuilding vessels and 30 repair vessels • Shipyard Electrical Works*
 
-📧 [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)   |   📍 Khulna, Bangladesh
+📧 [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)   |   💼 [LinkedIn](https://www.linkedin.com/in/s-m-hasib)   |   📍 Khulna, Bangladesh
 
 ---
 
@@ -90,6 +90,7 @@ Explore practical marine electrical topics and project-based notes:
 ## Contact
 
 📧 **Email:** [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/s-m-hasib](https://www.linkedin.com/in/s-m-hasib)  
 📍 **Location:** Khulna, Bangladesh  
 💼 **Portfolio Repository:** [Marine Electrical Portfolio](https://github.com/KSY-Hasib/SM-Hasib-)
 

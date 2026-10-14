@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile-picture.svg" alt="S. M. Hasib" width="160" height="160" />
+  <img src="https://avatars.githubusercontent.com/u/342561358?v=4" alt="S. M. Hasib" width="160" height="160" style="border-radius: 50%;" />
 </p>
 
 <p align="center">

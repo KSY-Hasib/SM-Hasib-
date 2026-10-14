@@ -33,8 +33,8 @@ Approved photographs can be added under the `images/` folder and displayed on th
 
 ## Contact
 - GitHub: [KSY-Hasib](https://github.com/KSY-Hasib)
+- Email: [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)
 - LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add a professional email address only if you want it public]
 
 ## Confidentiality
 Only publish information and photographs authorized for public sharing. Do not upload restricted shipyard drawings, confidential documents, sensitive vessel or security details, private contact information, or unapproved photographs.

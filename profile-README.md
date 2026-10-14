@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/342561358?v=4" alt="S. M. Hasib GitHub profile picture" width="160" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  <strong>S. M. Hasib</strong><br />
+  Marine Electrical Engineer | Shipbuilding &amp; Ship Repair
+</p>
+
 # S. M. Hasib
 
 ### Marine Electrical Engineer | Shipbuilding & Ship Repair
@@ -6,7 +15,7 @@ Marine Electrical Systems • Electrical Installation • Testing & Commissionin
 
 *13+ years of experience • Approximately 25 newbuilding vessels and 30 repair vessels • Shipyard Electrical Works*
 
-📧 [engg.hasib666@gmail.com](mailto:engg.hasib666.com)   |   💼 [LinkedIn](https://www.linkedin.com/in/s-m-hasib)   |   💬 [WhatsApp: +8801675459061](https://wa.me/8801675459061)   |   📍 Khulna, Bangladesh
+📧 [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)   |   💼 [LinkedIn](https://www.linkedin.com/in/s-m-hasib)   |   💬 [WhatsApp: +8801675459061](https://wa.me/8801675459061)   |   📍 Khulna, Bangladesh
 
 ---
 
@@ -92,7 +101,7 @@ Explore practical marine electrical topics and project-based notes:
 
 ## Contact
 
-📧 **Email:** [engg.hasib666@gmail.com](mailto:engg.hasib666.com)  
+📧 **Email:** [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/s-m-hasib](https://www.linkedin.com/in/s-m-hasib)  
 💬 **WhatsApp:** [+8801675459061](https://wa.me/8801675459061)  
 📍 **Location:** Khulna, Bangladesh  

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/342561358?v=4" alt="S. M. Hasib GitHub profile picture" width="160" style="border-radius: 50%;" />
+  <img src="images/profile-picture.svg" alt="S. M. Hasib" width="160" height="160" />
 </p>
 
 <p align="center">

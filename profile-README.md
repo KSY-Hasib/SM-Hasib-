@@ -26,10 +26,13 @@ I have contributed to approximately **25 newbuilding vessels and 30 ship-repair 
 |---|---|---|
 | [2 × 70-Ton Bollard Pull Tug Boats](projects/ppa-tug-boat.md) | Payra Port Authority (PPA) | Marine electrical installation coordination, equipment integration, cable works, and testing/commissioning support |
 | [3 × Landing Craft Tanks (LCTs)](projects/bn-lct.md) | Bangladesh Navy | Electrical installation coordination, switchboards, distribution systems, and equipment integration |
-| [Naval Patrol Vessels](projects/naval-patrol-vessels.md) | Bangladesh Navy | Electrical installation and shipboard electrical system support |
-| [BIWTA Vessels](projects/biwta-vessels.md) | Bangladesh Inland Water Transport Authority | Electrical works for crane boats and dredger-related vessels |
-| [PPA Small Vessels](projects/ppa-small-vessels.md) | Payra Port Authority | Electrical works for pilot vessels and heavy-duty speed boats |
-| High-Speed Boats | Bangladesh Coast Guard / other project clients | Marine electrical installation and project execution support |
+| [5 × Patrol Vessels](projects/naval-patrol-vessels.md) | Bangladesh Navy | Electrical installation and shipboard electrical system support |
+| [4 × Crane Support Vessels](projects/biwta-vessels.md) | Bangladesh Inland Water Transport Authority (BIWTA) | Electrical installation, equipment connection, and commissioning support |
+| [4 × 24-Inch Cutter Suction Dredgers](projects/biwta-vessels.md) | Bangladesh Inland Water Transport Authority (BIWTA) | Marine electrical installation, power distribution, and equipment integration support |
+| [2 × Pilot Vessels](projects/ppa-small-vessels.md) | Payra Port Authority (PPA) | Marine electrical installation and equipment integration support |
+| [2 × Heavy-Duty Speed Boats](projects/ppa-small-vessels.md) | Payra Port Authority (PPA) | Electrical installation, cable works, and equipment connection support |
+| 6 × High-Speed Boats | Bangladesh Coast Guard (BCG) | Marine electrical installation and project execution support |
+| 1 × 70-Ton Self-Propelled Floating Crane | Bangladesh Coast Guard (BCG) | Vessel electrical installation and equipment integration support |
 | Fisheries Research Vessel | Fisheries research project | Vessel electrical works and installation coordination |
 
 *Project descriptions indicate general areas of contribution and do not imply sole responsibility for every engineering discipline or deliverable.*

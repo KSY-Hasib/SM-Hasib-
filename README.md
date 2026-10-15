@@ -1,40 +1,52 @@
 # S. M. Hasib | Marine Electrical Engineering Portfolio
 
-**Sub-Assistant Engineer (Electrical) | Shipbuilding | Ship Repair | Marine Electrical Systems**
+**Sub-Assistant Engineer (Electrical) | Marine Electrical Systems | Shipbuilding & Ship Repair**
 
 📍 Khulna, Bangladesh
 
 ## Professional Profile
-Electrical engineering professional with approximately 13 years of experience in shipbuilding and ship repair. My work has included electrical installation activities, coordination of equipment integration, technical inspection, maintenance support, and follow-up of testing and commissioning activities.
 
-This portfolio presents selected project experience and technical knowledge. Each project page should be updated with verified details of my personal role and only information approved for public sharing.
+Electrical engineering professional with **12+ years of hands-on experience**, supported by a Diploma in Electrical Engineering from Khulna Polytechnic Institute. My experience spans marine electrical work, electrical distribution systems, industrial maintenance, electrical safety inspection, technical documentation, project estimation, and training/skills development.
+
+At Khulna Shipyard Ltd., my responsibilities include electrical drawings, estimates and BOQs, tender specifications, project implementation coordination, electrical maintenance and troubleshooting, ISO 9000:2015 audit support, and planning/management support for the shipyard electrical distribution system and substation.
+
+## Core Competencies
+
+- Marine electrical installation, maintenance, and troubleshooting
+- Electrical drawings using AutoCAD 2D/3D, including SLD and ELD
+- Main switchboards, LT/HT panel boards, MCC, ATS, PFI plants, and motor starters
+- Ship steering gear installation, maintenance, troubleshooting, and calibration support for rudder-angle indication
+- Electrical safety inspections, thermal inspection/reporting, and corrective-action follow-up
+- Technical/tender specifications, BOQ, project estimation, budget planning, and documentation
+- PLC and VFD-related knowledge; PLC basic training completed
+- Project coordination, team supervision, training delivery, and quality assurance
 
 ## Professional Experience
-- Approximately 25 new-building vessel projects and 30 ship repair projects, based on my career record. Update counts if needed and clarify the nature of involvement.
-- Marine electrical installation, repair, and equipment integration follow-up.
-- Electrical drawings, technical documentation, inspection, and coordination with relevant teams.
-- Power distribution, generator, motor control, cable installation, and testing-related work, as applicable to each project.
+
+See [Professional Experience & Training](experience-and-training.md) for my career history, responsibilities, education, and completed training.
 
 ## Selected Project Categories
-- [PPA 70 Ton Bollard Pull Tug Boat](projects/ppa-tug-boat.md)
+
+- [PPA 70-Ton Bollard Pull Tug Boats](projects/ppa-tug-boat.md)
 - [Bangladesh Navy Landing Craft Tank (LCT)](projects/bn-lct.md)
 - [Naval Patrol Vessels](projects/naval-patrol-vessels.md)
-- [BIWTA Crane Boats and Dredgers](projects/biwta-vessels.md)
-- [PPA Pilot Vessels and Speed Boats](projects/ppa-small-vessels.md)
+- [BIWTA Crane Support Vessels and Dredgers](projects/biwta-vessels.md)
+- [PPA Pilot Vessels and Heavy-Duty Speed Boats](projects/ppa-small-vessels.md)
 
-## Technical Case Studies
+Project descriptions are intended to summarize experience at a general level. Vessel-specific duties should be described only where personally verified and approved for public sharing.
+
+## Technical Skills
+
+- [Technical Skills](skills.md)
 - [Electrical Technical Case Study Template](technical-case-studies/case-study-template.md)
 
-## Skills
-See [Technical Skills](skills.md). Skill levels should be stated honestly and updated to reflect actual experience.
-
-## Project Gallery
-Approved photographs can be added under the `images/` folder and displayed on the relevant project pages with short, accurate captions.
-
 ## Contact
-- GitHub: [KSY-Hasib](https://github.com/KSY-Hasib)
-- Email: [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)
-- LinkedIn: [Add your LinkedIn profile URL]
+
+- **Email:** [engg.hasib666.hr@gmail.com](mailto:engg.hasib666.hr@gmail.com)
+- **LinkedIn:** [linkedin.com/in/s-m-hasib](https://www.linkedin.com/in/s-m-hasib)
+- **WhatsApp:** [+8801675459061](https://wa.me/8801675459061)
+- **GitHub:** [KSY-Hasib](https://github.com/KSY-Hasib)
 
 ## Confidentiality
-Only publish information and photographs authorized for public sharing. Do not upload restricted shipyard drawings, confidential documents, sensitive vessel or security details, private contact information, or unapproved photographs.
+
+Only publish information and photographs authorized for public sharing. Restricted shipyard drawings, confidential documents, sensitive vessel/security details, and unapproved photographs are intentionally excluded.

@@ -31,20 +31,60 @@ Electrical work coordination for **02 × 70-ton bollard pull tug boats** being b
 
 ---
 
-## ⚡ Electrical Scope and Systems
+## ⚡ Major Electrical Equipment and Marine Systems
 
-The project electrical work involves coordination and follow-up related to the following areas, as applicable to the assigned work packages:
+The following equipment and systems were identified for the project based on the information provided.
 
-- Electrical cable installation, routing, laying, and connection work.
-- Electrical equipment installation and interface coordination.
-- Main and auxiliary machinery electrical connections.
-- Azimuth thruster-related electrical interfaces.
-- Vessel Management System (VMS) interfaces.
-- Deck machinery electrical work.
-- Fire-fighting (Fi-Fi) system electrical interfaces.
-- Electrical inspection, testing, troubleshooting, and commissioning support.
+### Power Generation and Distribution
 
-*Only include systems and activities that reflect your actual work and are approved for public disclosure.*
+| Equipment | Quantity / Rating | Brand / Manufacturer |
+|---|---|---|
+| Main Generators | 2 × 250 kW | Cummins |
+| Emergency Generator | 1 × 80 kW | Cummins |
+| Main Switchboard (MSB) | 1 set per vessel, subject to approved configuration | Eltech, Netherlands |
+| Emergency Switchboard (ESB) | 1 set per vessel, subject to approved configuration | Eltech, Netherlands |
+
+### Propulsion, Manoeuvring and Deck Machinery
+
+| Equipment / System | Details provided |
+|---|---|
+| Main Engines | 2 units — Niigata |
+| Azimuth Thrusters | Niigata, Japan |
+| Propulsion | Jet propulsion (exact approved system designation to be confirmed) |
+| Bow Thruster | 185 kW, electrically operated |
+| Forward and Aft Winches | 70-ton bollard-pull winches — DMT, Romania |
+| Deck Crane | Installed / included in project equipment scope |
+| Davit Crane | Installed / included in project equipment scope |
+| Hydraulic Power Unit (HPU) | Included in project equipment scope |
+
+### Firefighting, Monitoring and Auxiliary Systems
+
+| Equipment / System | Details |
+|---|---|
+| Fire-Fighting System (FFS) | Included |
+| CO₂ Fire-Extinguishing System | Included |
+| Vessel Management System (VMS) | Praxis |
+| Bilge & Flood Alarm System | Included |
+| Sewage Treatment Plant (STP) | Included |
+| Oily Water Separator (OWS) | Included |
+
+### Pumps, Fans and Motor Starters
+
+The project equipment list also includes the following pumps, ventilation equipment and associated motor starters:
+
+- Salvage pump
+- Drainage pump
+- Engine-room ventilation fan
+- Lubricating-oil pump
+- Fuel pump
+- Ballast pump
+- Bilge pump
+- Fire pump
+- General-service (GS) pump
+- Motor starters for applicable machinery
+
+*Brand names, ratings, quantities and system descriptions are reproduced from the project information provided. Confirm against approved, releasable technical documents before publishing any further specifications. The exact relationship between the stated “jet propulsion” and Niigata azimuth-thruster arrangement should be verified against the approved propulsion-system documentation.*
+
 
 ---
 

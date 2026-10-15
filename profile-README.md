@@ -1,112 +1,89 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/342561358?v=4" alt="S. M. Hasib" width="160" height="160" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/342561358?v=4" alt="S. M. Hasib" width="160" height="160" />
 </p>
 
 <p align="center">
   <strong>S. M. Hasib</strong><br />
-  Marine Electrical Engineer | Shipbuilding &amp; Ship Repair
+  Marine Electrical Engineering | Shipbuilding &amp; Ship Repair
 </p>
 
 # S. M. Hasib
 
-### Marine Electrical Engineer | Shipbuilding & Ship Repair
+### Sub-Assistant Engineer (Electrical) | Marine Electrical Systems
 
-Marine Electrical Systems • Electrical Installation • Testing & Commissioning • Project Execution
+Electrical Installation • Power Distribution • Safety Inspection • Project Coordination
 
-*13+ years of experience • Approximately 25 newbuilding vessels and 30 repair vessels • Shipyard Electrical Works*
+*12+ years of hands-on electrical engineering experience across marine, industrial maintenance, electrical safety, and technical training.*
 
-📧 [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)   |   💼 [LinkedIn](https://www.linkedin.com/in/s-m-hasib)   |   💬 [WhatsApp: +8801675459061](https://wa.me/8801675459061)   |   📍 Khulna, Bangladesh
+📧 [Email](mailto:engg.hasib666.hr@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/s-m-hasib) | 💬 [WhatsApp](https://wa.me/8801675459061) | 📍 Khulna, Bangladesh
 
 ---
 
 ## About Me
 
-I am a **Diploma-qualified Electrical Engineer** with around 13 years of experience in marine electrical works, shipbuilding, and ship repair at Khulna Shipyard Ltd., Bangladesh.
+I am a Diploma-qualified Electrical Engineer with experience in marine electrical work, shipbuilding and ship repair, industrial electrical maintenance, safety inspection, project estimation, and technical training. I currently work as a **Sub-Assistant Engineer (Electrical) at Khulna Shipyard Ltd.**, where my responsibilities include electrical drawings, technical specifications, BOQs, estimates, project coordination, maintenance and troubleshooting, audit support, and electrical distribution/substation-related work.
 
-My work covers electrical installation and coordination throughout vessel construction and repair, including cable installation, switchboards, generators, motors, transformers, electrical distribution, equipment inspection, testing, and commissioning. I coordinate with production teams, suppliers, and other technical sections to support safe, reliable, and timely completion of vessel electrical works.
+I also have previous experience in skills-development management and electrical safety inspection, including team coordination, training-program management, thermal inspection/reporting, and electrical distribution-system work.
 
-I have contributed to approximately **25 newbuilding vessels and 30 ship-repair projects**. Project details are shared at a general level to respect shipyard, client, and vessel confidentiality.
+## Core Technical Skills
 
----
+- **Marine Electrical:** Ship electrical installation, maintenance, steering gear systems, equipment connections, and troubleshooting
+- **Power & Distribution:** Main switchboards, LT/HT panel boards, MCC, ATS, PFI plants, motor starters, and distribution systems
+- **Drawings & Documentation:** AutoCAD 2D/3D, Single Line Diagrams (SLD), Electrical Layout Drawings (ELD), technical specifications, BOQ, and estimates
+- **Inspection & Safety:** Electrical safety inspections, thermal inspection/reporting, standards compliance, audit support, and corrective-action follow-up
+- **Automation:** PLC basic training, VFD-related work, control circuits, and system troubleshooting
+- **Coordination & Leadership:** Project execution coordination, team supervision, training delivery, procurement planning, and technical documentation
 
-## 🚢 Selected Newbuilding Portfolio
+## Selected Marine Project Experience
 
-| **Project / Vessel Type** | **Client / Organization** | **Electrical Engineering Contribution** |
+| Project category | Organization / client | General area of contribution |
 |---|---|---|
-| [2 × 70-Ton Bollard Pull Tug Boats](projects/ppa-tug-boat.md) | Payra Port Authority (PPA) | Marine electrical installation coordination, equipment integration, cable works, and testing/commissioning support |
-| [3 × Landing Craft Tanks (LCTs)](projects/bn-lct.md) | Bangladesh Navy | Electrical installation coordination, switchboards, distribution systems, and equipment integration |
-| [5 × Patrol Vessels](projects/naval-patrol-vessels.md) | Bangladesh Navy | Electrical installation and shipboard electrical system support |
-| [4 × Crane Support Vessels](projects/biwta-vessels.md) | Bangladesh Inland Water Transport Authority (BIWTA) | Electrical installation, equipment connection, and commissioning support |
-| [4 × 24-Inch Cutter Suction Dredgers](projects/biwta-vessels.md) | Bangladesh Inland Water Transport Authority (BIWTA) | Marine electrical installation, power distribution, and equipment integration support |
-| [2 × Pilot Vessels](projects/ppa-small-vessels.md) | Payra Port Authority (PPA) | Marine electrical installation and equipment integration support |
-| [2 × Heavy-Duty Speed Boats](projects/ppa-small-vessels.md) | Payra Port Authority (PPA) | Electrical installation, cable works, and equipment connection support |
-| 6 × High-Speed Boats | Bangladesh Coast Guard (BCG) | Marine electrical installation and project execution support |
-| 1 × 70-Ton Self-Propelled Floating Crane | Bangladesh Coast Guard (BCG) | Vessel electrical installation and equipment integration support |
-| Fisheries Research Vessel | Fisheries research project | Vessel electrical works and installation coordination |
+| [2 × 70-Ton Bollard Pull Tug Boats](projects/ppa-tug-boat.md) | Payra Port Authority (PPA) | Marine electrical installation coordination and equipment integration support |
+| [3 × Landing Craft Tanks (LCTs)](projects/bn-lct.md) | Bangladesh Navy | Electrical installation, distribution, and equipment integration support |
+| [5 × Patrol Vessels](projects/naval-patrol-vessels.md) | Bangladesh Navy | Shipboard electrical work support |
+| [4 × Crane Support Vessels](projects/biwta-vessels.md) | BIWTA | Electrical installation and equipment connection support |
+| [4 × 24-Inch Cutter Suction Dredgers](projects/biwta-vessels.md) | BIWTA | Electrical installation and power-distribution support |
+| [PPA Pilot Vessels and Heavy-Duty Speed Boats](projects/ppa-small-vessels.md) | PPA | Marine electrical installation support |
+| Other vessel projects | As permitted for public disclosure | Details shared only at a general, non-confidential level |
 
-*Project descriptions indicate general areas of contribution and do not imply sole responsibility for every engineering discipline or deliverable.*
-
----
-
-## Core Expertise
-
-| **Area** | **Skills & Experience** |
-|---|---|
-| **Marine Electrical Systems** | Shipboard power distribution, electrical installation, equipment connection, cable routing and termination |
-| **Power & Distribution** | Main and emergency switchboards, generators, transformers, distribution boards, motors and starters |
-| **Testing & Commissioning** | Insulation-resistance testing, earthing checks, electrical inspection, pre-commissioning and commissioning support |
-| **Electrical Equipment** | Switchgear, protection devices, motor control, lighting, navigation lights and marine electrical accessories |
-| **Project Execution** | Work planning, coordination with production teams, material verification, supplier follow-up and technical documentation |
-| **Technical Tools** | AutoCAD, AutoCAD Electrical, and electrical drawings/specification review |
-
----
+*Project quantities and descriptions should be read as portfolio summaries, not claims of sole responsibility for every project deliverable.*
 
 ## Professional Experience
 
-| **Position** | **Organization** | **Period** |
-|---|---|---|
-| **Sub-Assistant Engineer (Electrical)** | Khulna Shipyard Ltd. (KSY), Bangladesh | Present |
+- **Sub-Assistant Engineer (Electrical)** — Khulna Shipyard Ltd. | December 2018–Present
+- **Head of Skills Development** — Sundarban Institute of Technology | August 2015–November 2018
+- **Assistant Manager (Electrical)** — Uttaron Technologies Ltd. | February 2012–February 2015
+- **Sub-Assistant Engineer** — YKK Bangladesh Ltd. | January 2011–January 2012
 
-*Additional employment dates and positions can be added when verified.*
-
----
+See [full experience, education and training](experience-and-training.md).
 
 ## Education
 
-**Diploma in Electrical Engineering**  
-Khulna Polytechnic Institute, Bangladesh  
-Passed: 2010
+- **Diploma in Electrical Engineering** — Khulna Polytechnic Institute, 2010 | CGPA 3.33/4.00
+- **SSC Vocational, General Electrical Works** — St. Xavier’s High School, 2006 | GPA 4.50/5.00
+
+## Training & Certifications
+
+- Basic Training on Programmable Logic Controller (PLC) — BITAC, March 2021
+- Training of Trainers on Competency-Based Training and Assessment (CBT&A) — Swisscontact & Uttaron, December 2021
+- Bangladesh Labour Law with Latest Amendment — Department of Labour, Bangladesh, December 2022
+- National Skill Certificate Level 1: Electrical Installation and Maintenance — BTEB, June 2017
+- Electrical Installation & Maintenance — UCEP Bangladesh, Khulna, June 2016
+- AutoCAD 2D/3D & 3D Studio Max — IDEB, June 2013
+- Additional completed training is listed in [Experience & Training](experience-and-training.md).
+
+## Portfolio Links
+
+- [Professional Experience & Training](experience-and-training.md)
+- [Technical Skills](skills.md)
+- [PPA Tug Boat Project](projects/ppa-tug-boat.md)
+- [Bangladesh Navy LCT Project](projects/bn-lct.md)
+- [Naval Patrol Vessel Experience](projects/naval-patrol-vessels.md)
+- [BIWTA Vessels and Dredgers](projects/biwta-vessels.md)
+- [PPA Small Vessels](projects/ppa-small-vessels.md)
 
 ---
 
-## Technical Case Studies
+📧 [engg.hasib666.hr@gmail.com](mailto:engg.hasib666.hr@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/s-m-hasib) | 💬 [WhatsApp: +8801675459061](https://wa.me/8801675459061)
 
-Explore practical marine electrical topics and project-based notes:
-
-- [Technical Case Study Template](technical-case-studies/case-study-template.md)
-- [Electrical Skills & Tools](skills.md)
-
----
-
-## Professional Interests
-
-- Marine Electrical Engineering
-- Shipbuilding and Ship Repair
-- Electrical Quality Control / Quality Assurance (QC/QA)
-- Inspection, Testing & Commissioning
-- Electrical Project Coordination
-- Electrical Safety and Reliability
-
----
-
-## Contact
-
-📧 **Email:** [engg.hasib666@gmail.com](mailto:engg.hasib666@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/s-m-hasib](https://www.linkedin.com/in/s-m-hasib)  
-💬 **WhatsApp:** [+8801675459061](https://wa.me/8801675459061)  
-📍 **Location:** Khulna, Bangladesh  
-💼 **Portfolio Repository:** [Marine Electrical Portfolio](https://github.com/KSY-Hasib/SM-Hasib-)
-
----
-
-*Thank you for visiting my profile. Feel free to explore the project pages and technical notes. Vessel-specific drawings, restricted technical data, and confidential shipyard information are intentionally excluded.*
+*This portfolio excludes private personal details, references’ contact information, restricted technical drawings, confidential documents, and vessel/security information not approved for public release.*

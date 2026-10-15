@@ -12,20 +12,20 @@ Current role: **Sub-Assistant Engineer (Electrical), Khulna Shipyard Ltd.** My C
 
 ## Selected Marine Project Experience
 
-| No. | Project / Vessel Category | Quantity |
-|---:|---|---:|
-| 1 | PPA 70-Ton Bollard Pull Tug Boats | 2 |
-| 2 | Bangladesh Navy Landing Craft Tank (BN LCT) | 3 |
-| 3 | PPA Pilot Vessels | 2 |
-| 4 | PPA Heavy-Duty Speed Boats | 2 |
-| 5 | Bangladesh Coast Guard 70-Ton Floating Crane | 1 |
-| 6 | High-Speed Boats | 6 |
-| 7 | Fisheries Research Boat | 1 |
-| 8 | Bangladesh Navy Patrol Vessels | 5 |
-| 9 | BIWTA Crane Support Vessels / Crane Boats | 4 |
-| 10 | BIWTA 24-Inch Cutter Suction Dredgers | 4 |
+| Project category | Organization / client | General area of contribution | Status |
+|---|---|---|---|
+| 2 × PPA 70-Ton Bollard Pull Tug Boats | PPA | Marine electrical installation coordination, equipment integration, cable work, and testing/commissioning support | Ongoing |
+| 3 × Bangladesh Navy Landing Craft Tank (LCT) | Bangladesh Navy | Electrical installation coordination, switchboards/distribution, equipment connections, and testing support | Ongoing |
+| 2 × PPA Pilot Vessels | PPA | Marine electrical works during vessel construction | Delivered |
+| 2 × PPA Heavy-Duty Speed Boats | PPA | Marine electrical works during vessel construction | Delivered |
+| 1 × 70-Ton Floating Crane | Bangladesh Coast Guard | Marine electrical works during vessel construction | Delivered |
+| 6 × High-Speed Boats | Client not specified in available CV/project information | Marine electrical works during vessel construction | Delivered |
+| 1 × Fisheries Research Boat | Client not specified in available CV/project information | Marine electrical works during vessel construction | Delivered |
+| 5 × Bangladesh Navy Patrol Vessels | Bangladesh Navy | Marine electrical works during vessel construction | Delivered |
+| 4 × BIWTA Crane Support Vessels / Crane Boats | BIWTA | Marine electrical installation and equipment integration | Delivered |
+| 4 × BIWTA 24-Inch Cutter Suction Dredgers | BIWTA | Marine electrical installation and equipment integration | Delivered |
 
-*The supplied CV does not provide the individual names or hull numbers of these vessels, so this table lists the vessel/project categories and quantities available in the project information. Add individual vessel names only after they are verified and approved for public sharing.*
+*Status entries are a working portfolio summary. The available CV/project notes identify the current tug-boat and LCT work as ongoing, but do not provide formal handover dates for every other category. Please verify the “Delivered” entries before public use. Individual vessel names and hull numbers were not provided and have not been invented.*
 
 Project pages:
 - [PPA 70-Ton Bollard Pull Tug Boats](projects/ppa-tug-boat.md)
@@ -82,4 +82,4 @@ Project pages:
 
 ## Public Portfolio & Confidentiality
 
-This portfolio summarizes information from my CV and project information available for professional presentation. Individual vessel names, hull numbers, restricted drawings, sensitive configurations, confidential documents, and photographs should be added only after verification and authorization for public release.
+This portfolio summarizes information from my CV and project information available for professional presentation. Individual vessel names, hull numbers, restricted drawings, sensitive configurations, confidential documents, and photographs should be added only after verification and authorization for public sharing.

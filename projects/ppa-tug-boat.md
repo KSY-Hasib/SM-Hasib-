@@ -21,6 +21,7 @@ Electrical work coordination for **02 × 70-ton bollard pull tug boats** being b
 | **Client** | Payra Port Authority (PPA) |
 | **Shipyard** | Khulna Shipyard Ltd. (KSY) |
 | **Quantity** | 02 vessels |
+| **Hull Numbers** | NB-786 and NB-787 |
 | **Vessel Type** | 70-Ton Bollard Pull Tug Boat |
 | **My Position** | Sub-Assistant Engineer (Electrical) / Electrical Job Officer, as assigned |
 | **Discipline** | Marine Electrical Engineering |
@@ -64,6 +65,7 @@ Detailed principal particulars have not yet been confirmed for this public portf
 | **Parameter** | **Value** |
 |---|---|
 | Vessel Quantity | 02 |
+| Hull Numbers | NB-786 and NB-787 |
 | Bollard Pull | 70 Ton |
 | Vessel Type / Propulsion Type | Confirm exact approved designation |
 | Length Overall (LOA) | Not added — verification required |

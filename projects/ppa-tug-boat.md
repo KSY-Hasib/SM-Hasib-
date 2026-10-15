@@ -1,49 +1,107 @@
-# PPA 70 Ton Bollard Pull Tug Boat
+# 🚢 02 × 70-Ton Bollard Pull Tug Boats
 
-## Project Overview
-- **Project type:** New building
-- **Vessel type:** 70 Ton Bollard Pull Tug Boat
-- **Organization:** Khulna Shipyard Ltd. (include only if public attribution is permitted)
-- **My role:** Sub-Assistant Engineer (Electrical) / Electrical Job Officer, where applicable to this project
-- **Project period:** [Add verified period]
-- **Status:** [Add verified status]
+<!-- Add an approved project photograph here after uploading it to the repository's images/ folder. Do not use third-party project photos as your own. -->
 
-## Project Scope
-Describe the electrical work packages relevant to this vessel. Keep confidential technical specifications out of this page.
+**Electrical Project Coordination | Marine Electrical Installation | Equipment Integration | Cable Works | Testing & Commissioning Support**
 
-## My Role and Responsibilities
-Edit these bullets so they match your actual contribution:
-- Coordinated assigned electrical installation activities.
-- Followed up on equipment installation and cable connection activities.
-- Monitored work progress and workmanship for assigned tasks.
-- Coordinated with relevant technical teams on electrical work interfaces.
-- Supported inspection, testing, and commissioning activities where applicable.
+![Status: Ongoing](https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge)
+![Vessel Type: Tug Boat](https://img.shields.io/badge/Type-Tug%20Boat-blue?style=for-the-badge)
+![Bollard Pull: 70 Ton](https://img.shields.io/badge/Bollard%20Pull-70%20Ton-red?style=for-the-badge)
 
-## Systems Involved
-List only systems you personally worked on, inspected, coordinated, or supported:
-- Main and emergency power distribution
-- Generator-related electrical work
-- Motor control and starters
-- Lighting and navigation lights
-- Alarm, monitoring, or control systems
-- Other verified systems: [Add details]
+---
 
-## Technical Challenge
-- **Issue:** [Describe a real, non-confidential issue]
-- **Technical considerations:** [Explain relevant engineering factors]
-- **My contribution:** [Describe what you personally did]
-- **Outcome:** [Verified result or current status]
+## 📌 Project Summary
 
-## Project Photos
-Add approved photographs in the `images/` folder and link them here, for example:
+Electrical work coordination for **02 × 70-ton bollard pull tug boats** being built for **Payra Port Authority (PPA)** at **Khulna Shipyard Ltd. (KSY)**. My involvement focuses on coordinating assigned marine electrical work, equipment integration, cable installation and connection activities, and supporting inspection, testing, and commissioning.
 
-`![Electrical installation](../images/ppa-tug-electrical-installation.jpg)`
+> **Project status:** Ongoing. The project status and details should be updated when verified milestones are achieved.
 
-Caption: [Describe the activity accurately.]
+| **Project Information** | **Details** |
+|---|---|
+| **Client** | Payra Port Authority (PPA) |
+| **Shipyard** | Khulna Shipyard Ltd. (KSY) |
+| **Quantity** | 02 vessels |
+| **Vessel Type** | 70-Ton Bollard Pull Tug Boat |
+| **My Position** | Sub-Assistant Engineer (Electrical) / Electrical Job Officer, as assigned |
+| **Discipline** | Marine Electrical Engineering |
+| **Status** | Ongoing |
 
-## Lessons Learned
-- [Add a lesson based on your own experience]
-- [Add another lesson, if applicable]
+---
 
-## Confidentiality
-Exclude restricted drawings, sensitive configurations, confidential documents, and information not approved for public release.
+## ⚡ Electrical Scope and Systems
+
+The project electrical work involves coordination and follow-up related to the following areas, as applicable to the assigned work packages:
+
+- Electrical cable installation, routing, laying, and connection work.
+- Electrical equipment installation and interface coordination.
+- Main and auxiliary machinery electrical connections.
+- Azimuth thruster-related electrical interfaces.
+- Vessel Management System (VMS) interfaces.
+- Deck machinery electrical work.
+- Fire-fighting (Fi-Fi) system electrical interfaces.
+- Electrical inspection, testing, troubleshooting, and commissioning support.
+
+*Only include systems and activities that reflect your actual work and are approved for public disclosure.*
+
+---
+
+## 👨‍🔧 Engineering Contributions
+
+- Coordinate assigned electrical installation activities for the tug boat project.
+- Follow up on cable works and equipment connection progress.
+- Coordinate electrical interfaces with machinery, control, and other relevant work teams.
+- Monitor work progress and report technical issues or constraints to the responsible personnel.
+- Support inspection, testing, troubleshooting, and commissioning activities within the assigned scope.
+- Assist in resolving electrical installation and integration issues during construction.
+- Follow applicable drawings, approved specifications, safety requirements, and project procedures.
+
+---
+
+## 📐 Principal Particulars
+
+Detailed principal particulars have not yet been confirmed for this public portfolio page. Add verified values only after checking approved, releasable project documents.
+
+| **Parameter** | **Value** |
+|---|---|
+| Vessel Quantity | 02 |
+| Bollard Pull | 70 Ton |
+| Vessel Type / Propulsion Type | Confirm exact approved designation |
+| Length Overall (LOA) | Not added — verification required |
+| Breadth | Not added — verification required |
+| Depth | Not added — verification required |
+| Draft | Not added — verification required |
+| Speed | Not added — verification required |
+
+---
+
+## 🧰 Technical Expertise Demonstrated
+
+**Marine Electrical Engineering • Electrical Installation Coordination • Cable Works • Equipment Integration • Electrical Troubleshooting • Technical Documentation • Work Progress Monitoring • Inspection Support • Testing & Commissioning Support • Shipbuilding Coordination**
+
+---
+
+## 📷 Project Photos and Work Evidence
+
+Add only photographs that are approved for public sharing. Upload them to the repository's `images/` folder and link them below.
+
+- **Project overview:** [Add approved photograph]
+- **Electrical installation:** [Add approved photograph]
+- **Equipment integration or testing:** [Add approved photograph]
+
+Do not publish restricted drawings, confidential technical information, vessel security details, or photographs without permission.
+
+---
+
+## 📬 Professional Contact
+
+**S. M. Hasib**  
+Sub-Assistant Engineer (Electrical) | Marine Electrical Engineering  
+Khulna Shipyard Ltd. (KSY), Bangladesh
+
+- **Email:** [engg.hasib666.hr@gmail.com](mailto:engg.hasib666.hr@gmail.com)
+- **LinkedIn:** [S. M. Hasib](https://www.linkedin.com/in/s-m-hasib)
+- **GitHub Portfolio:** [KSY-Hasib](https://github.com/KSY-Hasib/SM-Hasib-)
+
+---
+
+*Marine electrical project experience focused on practical installation coordination, equipment integration, and commissioning support.*

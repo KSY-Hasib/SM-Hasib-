@@ -1,5 +1,7 @@
 # S. M. Hasib | Marine Electrical Engineering Portfolio
 
+<p align="center"><img src="https://avatars.githubusercontent.com/u/342561358?v=4" alt="S. M. Hasib profile picture" width="140" height="140" /></p>
+
 **Sub-Assistant Engineer (Electrical) | Shipbuilding & Ship Repair | Marine Electrical Systems**
 
 Khulna, Bangladesh · [Email](mailto:engg.hasib666.hr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/s-m-hasib) · [WhatsApp](https://wa.me/8801675459061)

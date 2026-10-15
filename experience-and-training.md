@@ -8,17 +8,14 @@ This page presents CV-derived information in portfolio tables rather than reprod
 |---|---|---|---|
 | [2 × PPA 70-Ton Bollard Pull Tug Boats](projects/ppa-tug-boat.md) | PPA | Marine electrical installation coordination, equipment integration, cable work, and testing/commissioning support | Ongoing |
 | [3 × Bangladesh Navy Landing Craft Tank (LCT)](projects/bn-lct.md) | Bangladesh Navy | Electrical installation coordination, switchboards/distribution, equipment connections, and testing support | Ongoing |
+| [4 × BIWTA Crane Support Vessels / Crane Boats](projects/biwta-crane-support-vessels.md) | BIWTA | Marine electrical installation and equipment integration | Ongoing |
+| [4 × BIWTA 24-Inch Cutter Suction Dredgers](projects/biwta-cutter-suction-dredgers.md) | BIWTA | Marine electrical installation and equipment integration | Ongoing |
 | [2 × PPA Pilot Vessels](projects/ppa-pilot-vessels.md) | PPA | Marine electrical works during vessel construction | Delivered |
 | [2 × PPA Heavy-Duty Speed Boats](projects/ppa-heavy-duty-speed-boats.md) | PPA | Marine electrical works during vessel construction | Delivered |
 | [1 × 70-Ton Floating Crane](projects/coast-guard-floating-crane.md) | Bangladesh Coast Guard | Marine electrical works during vessel construction | Delivered |
 | [6 × High-Speed Boats](projects/high-speed-boats.md) | Client not specified in available CV/project information | Marine electrical works during vessel construction | Delivered |
 | [1 × Fisheries Research Boat](projects/fisheries-research-boat.md) | Client not specified in available CV/project information | Marine electrical works during vessel construction | Delivered |
 | [5 × Bangladesh Navy Patrol Vessels](projects/naval-patrol-vessels.md) | Bangladesh Navy | Marine electrical works during vessel construction | Delivered |
-| [4 × BIWTA Crane Support Vessels / Crane Boats](projects/biwta-crane-support-vessels.md) | BIWTA | Marine electrical installation and equipment integration | Ongoing |
-| [4 × BIWTA 24-Inch Cutter Suction Dredgers](projects/biwta-cutter-suction-dredgers.md) | BIWTA | Marine electrical installation and equipment integration | Ongoing |
-
-*Project status reflects the current working summary and should be confirmed before public release. Individual vessel names and hull numbers have not been supplied, so none have been invented.*
-
 ## Professional Experience
 
 | Period | Position | Organization / Location | Responsibilities and Experience |

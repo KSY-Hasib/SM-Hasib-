@@ -1,62 +1,32 @@
 # Professional Experience, Education & Training
 
-This page summarizes the career history and qualifications recorded in my CV. Contact details, home address, date of birth, and reference contact information are intentionally omitted from this public portfolio.
-
-## Professional Summary
-
-Electrical engineering professional with 12+ years of hands-on experience in marine electrical work, industrial electrical maintenance, electrical safety inspection, project estimation, technical documentation, and technical training.
+This page presents the information from my CV in portfolio tables rather than reproducing the CV's layout. Private address, date of birth, and reference contact details are not included.
 
 ## Professional Experience
 
-### Sub-Assistant Engineer — Khulna Shipyard Ltd.
-**December 2018–Present | Khulna, Bangladesh**
+| Period | Position | Organization / Location | Responsibilities and Experience |
+|---|---|---|---|
+| Dec 2018–Present | Sub-Assistant Engineer (Electrical) | Khulna Shipyard Ltd., Khulna, Bangladesh | Prepare and maintain electrical drawings; prepare estimates, BOQs, and tender/technical specifications; coordinate project implementation; support ISO 9000:2015 audit activities and corrective actions; maintain and troubleshoot ship electrical machinery; maintain work records and reports; contribute to shipyard electricity-distribution planning; oversee substation operation, maintenance, and safety coordination; instruct at the Technical Training Center (TTC). |
+| Aug 2015–Nov 2018 | Head of Skills Development | Sundarban Institute of Technology, Khulna, Bangladesh | Coordinate training partners, schedules, trainers, and training quality; prepare training material/equipment demand lists; support procurement and purchase-committee activities; manage trainee recruitment and selection; coordinate RPL assessments, training budgets, industry links, job-placement arrangements, industrial tours, and program documentation; lead Electrical Installation and Maintenance and STAGE-related activities. |
+| Feb 2012–Feb 2015 | Assistant Manager (Electrical) | Uttaron Technologies Ltd., Dhaka, Bangladesh | Conduct electrical safety inspections at garment and industrial facilities; lead inspection teams; arrange distribution-board thermal testing and reports; review and follow up on corrective work; prepare electrical drawings and SLDs; support design, installation, and maintenance of factory distribution systems, substations, and lightning-protection systems; coordinate inspections with customers and Bureau Veritas Bangladesh; prepare estimates, cost breakdowns, work plans, and worker assignments. |
+| Jan 2011–Jan 2012 | Sub-Assistant Engineer | YKK Bangladesh Ltd., Dhaka EPZ, Bangladesh | Perform routine and preventive electrical maintenance; troubleshoot faults; support production targets; supervise technicians and support staff; maintain quality and electrical-safety compliance; document maintenance, troubleshooting, and quality-control activities; coordinate with production and engineering teams. |
 
-Responsibilities recorded in my CV include:
-- Prepare and maintain electrical drawings using AutoCAD.
-- Prepare electrical project estimates, BOQs, and technical/tender specifications.
-- Coordinate electrical project implementation, progress, quality, and team interfaces.
-- Support ISO 9000:2015 audit activities within the electrical department and follow up on corrective actions.
-- Carry out ship electrical machinery maintenance and troubleshooting.
-- Maintain electrical work records, reports, manuals, and maintenance documentation.
-- Contribute to planning and development of the shipyard electrical distribution system.
-- Manage and oversee electrical substation operation, maintenance, and safety coordination.
-- Support training as an instructor at the Technical Training Center (TTC).
+## Selected Marine Project Experience
 
-### Head of Skills Development — Sundarban Institute of Technology
-**August 2015–November 2018 | Khulna, Bangladesh**
+| No. | Project / Vessel Category | Quantity |
+|---:|---|---:|
+| 1 | PPA 70-Ton Bollard Pull Tug Boats | 2 |
+| 2 | Bangladesh Navy Landing Craft Tank (BN LCT) | 3 |
+| 3 | PPA Pilot Vessels | 2 |
+| 4 | PPA Heavy-Duty Speed Boats | 2 |
+| 5 | Bangladesh Coast Guard 70-Ton Floating Crane | 1 |
+| 6 | High-Speed Boats | 6 |
+| 7 | Fisheries Research Boat | 1 |
+| 8 | Bangladesh Navy Patrol Vessels | 5 |
+| 9 | BIWTA Crane Support Vessels / Crane Boats | 4 |
+| 10 | BIWTA 24-Inch Cutter Suction Dredgers | 4 |
 
-Responsibilities recorded in my CV include:
-- Coordinate training partners, training schedules, trainers, and training quality.
-- Prepare training material/equipment demand lists and support procurement activities.
-- Lead purchase-committee activities and coordinate training budgets.
-- Manage trainee selection, assessment registration, and Recognition of Prior Learning (RPL) assessment arrangements.
-- Support Electrical Installation and Maintenance programs, in-house training, and competency-based training.
-- Coordinate industry links, job-placement arrangements, industrial tours, and documentation for relevant training partners and programs.
-- Support inspections and implementation of skills-development programs.
-
-### Assistant Manager (Electrical) — Uttaron Technologies Ltd.
-**February 2012–February 2015 | Dhaka, Bangladesh**
-
-Responsibilities recorded in my CV include:
-- Conduct electrical safety inspections for garments and industrial facilities.
-- Lead electrical inspection teams and coordinate thermal testing of distribution boards and report preparation.
-- Review thermal reports, inspect identified issues, and coordinate corrective work.
-- Prepare electrical drawings and Single Line Diagrams (SLDs) for factory distribution systems and substations.
-- Support design, installation, and maintenance of electrical distribution systems, substations, and lightning-protection systems.
-- Coordinate safety inspections with customers and inspection bodies, including Bureau Veritas Bangladesh.
-- Prepare project estimates, cost breakdowns, work plans, and worker assignments.
-- Coordinate technical meetings and provide electrical consultancy/support to customers.
-
-### Sub-Assistant Engineer — YKK Bangladesh Ltd.
-**January 2011–January 2012 | Dhaka EPZ, Bangladesh**
-
-Responsibilities recorded in my CV include:
-- Perform routine and preventive maintenance of electrical equipment and systems.
-- Troubleshoot electrical faults and help minimize production downtime.
-- Supervise technicians and support staff.
-- Support production targets, quality control, and electrical safety compliance.
-- Maintain records for maintenance, troubleshooting, and quality-control activities.
-- Coordinate with production, quality assurance, and other engineering teams.
+*Individual vessel names and hull numbers are not specified in the CV/project information currently available. They have not been invented.*
 
 ## Education
 
@@ -67,24 +37,29 @@ Responsibilities recorded in my CV include:
 
 ## Professional Training & Certifications
 
-| Training / Certificate | Issuing organization | Completion |
-|---|---|---|
-| Bangladesh Labour Law with Latest Amendment | Department of Labour, Bangladesh | December 2022 |
-| Training of Trainers on Competency-Based Training and Assessment (CBT&A) | Swisscontact & Uttaron | December 2021 |
-| Basic Training on Programmable Logic Controller (PLC) | Bangladesh Industrial Technical Assistance Center (BITAC) | March 2021 |
-| Capacity Building Workshop on STAGE Project | BRAC Skills Development Programme | December 2017 |
-| National Skill Certificate Level 1: Electrical Installation and Maintenance (Civil Construction) | Bangladesh Technical Education Board (BTEB) | June 2017 |
-| Electrical Installation & Maintenance (EIM) | UCEP Bangladesh, Khulna | June 2016 |
-| AutoCAD (2D, 3D & 3D Studio Max) | Institution of Diploma Engineers, Bangladesh (IDEB), Dhaka | June 2013 |
-| Basic Computer Training: MS Word, Excel, PowerPoint, Access, Internet and Email | National Youth Development & Self-Employment Academy, Khulna | June 2008 |
+| No. | Training / Certification | Issuing Organization | Completion |
+|---:|---|---|---|
+| 1 | Bangladesh Labour Law with Latest Amendment | Department of Labour, Bangladesh | December 2022 |
+| 2 | Training of Trainers on Competency-Based Training and Assessment (CBT&A) | Swisscontact & Uttaron | December 2021 |
+| 3 | Basic Training on Programmable Logic Controller (PLC) | Bangladesh Industrial Technical Assistance Center (BITAC) | March 2021 |
+| 4 | Capacity Building Workshop on STAGE Project | BRAC Skills Development Programme | December 2017 |
+| 5 | National Skill Certificate Level 1 — Electrical Installation and Maintenance (Civil Construction) | Bangladesh Technical Education Board (BTEB) | June 2017 |
+| 6 | Electrical Installation & Maintenance (EIM) | UCEP Bangladesh, Khulna | June 2016 |
+| 7 | AutoCAD 2D/3D & 3D Studio Max | Institution of Diploma Engineers, Bangladesh (IDEB), Dhaka | June 2013 |
+| 8 | Six-Month Basic Computer Training: MS Word, Excel, PowerPoint, Access, Internet and Email | National Youth Development & Self-Employment Academy, Khulna | June 2008 |
 
-## Relevant Portfolio Pages
+## Technical Skills Recorded in the CV
 
-- [Technical Skills](skills.md)
-- [Main Portfolio](README.md)
-- [PPA Tug Boat Project](projects/ppa-tug-boat.md)
-- [Bangladesh Navy LCT Project](projects/bn-lct.md)
+- Technical and tender specification writing
+- AutoCAD 2D/3D drawings for SLD and ELD
+- Main switchboards, LT/HT panel boards, PFI plants, MCC, ATS, and motor-starter design, estimation, and implementation
+- Marine electrical systems and ship electrical construction
+- Steering-gear installation, maintenance, troubleshooting, and calibration of rudder-angle indication
+- VFD and PLC programming
+- Electrical safety processes, procedures, and compliance
+- Quality assurance, project estimates, budget planning, and project coordination
+- System automation, troubleshooting, engineering documentation, presentation, and regulatory compliance
 
-## Public Portfolio Note
+## Public Sharing Note
 
-The information above is based on the CV supplied for this portfolio update. Vessel-specific work packages and individual contributions should be described only when personally verified and authorized for public release. Private addresses and reference contact details are not published here.
+This page uses CV-derived career, education, training, and skills information. Vessel-specific identifiers, hull numbers, restricted technical details, drawings, and photographs should be added only when verified and authorized for public release.

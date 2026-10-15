@@ -1,6 +1,23 @@
 # Professional Experience, Education & Training
 
-This page presents the information from my CV in portfolio tables rather than reproducing the CV's layout. Private address, date of birth, and reference contact details are not included.
+This page presents CV-derived information in portfolio tables rather than reproducing the CV's original layout. Private address, date of birth, and reference contact details are not included.
+
+## Selected Marine Project Experience
+
+| Project category | Organization / client | General area of contribution | Status |
+|---|---|---|---|
+| 2 × PPA 70-Ton Bollard Pull Tug Boats | PPA | Marine electrical installation coordination, equipment integration, cable work, and testing/commissioning support | Ongoing |
+| 3 × Bangladesh Navy Landing Craft Tank (LCT) | Bangladesh Navy | Electrical installation coordination, switchboards/distribution, equipment connections, and testing support | Ongoing |
+| 2 × PPA Pilot Vessels | PPA | Marine electrical works during vessel construction | Delivered |
+| 2 × PPA Heavy-Duty Speed Boats | PPA | Marine electrical works during vessel construction | Delivered |
+| 1 × 70-Ton Floating Crane | Bangladesh Coast Guard | Marine electrical works during vessel construction | Delivered |
+| 6 × High-Speed Boats | Client not specified in available CV/project information | Marine electrical works during vessel construction | Delivered |
+| 1 × Fisheries Research Boat | Client not specified in available CV/project information | Marine electrical works during vessel construction | Delivered |
+| 5 × Bangladesh Navy Patrol Vessels | Bangladesh Navy | Marine electrical works during vessel construction | Delivered |
+| 4 × BIWTA Crane Support Vessels / Crane Boats | BIWTA | Marine electrical installation and equipment integration | Delivered |
+| 4 × BIWTA 24-Inch Cutter Suction Dredgers | BIWTA | Marine electrical installation and equipment integration | Delivered |
+
+*The current tug-boat and LCT work is recorded as ongoing in the available project notes. Formal handover dates are not available for every other category; verify “Delivered” statuses before public use. Individual vessel names and hull numbers were not supplied.*
 
 ## Professional Experience
 
@@ -10,23 +27,6 @@ This page presents the information from my CV in portfolio tables rather than re
 | Aug 2015–Nov 2018 | Head of Skills Development | Sundarban Institute of Technology, Khulna, Bangladesh | Coordinate training partners, schedules, trainers, and training quality; prepare training material/equipment demand lists; support procurement and purchase-committee activities; manage trainee recruitment and selection; coordinate RPL assessments, training budgets, industry links, job-placement arrangements, industrial tours, and program documentation; lead Electrical Installation and Maintenance and STAGE-related activities. |
 | Feb 2012–Feb 2015 | Assistant Manager (Electrical) | Uttaron Technologies Ltd., Dhaka, Bangladesh | Conduct electrical safety inspections at garment and industrial facilities; lead inspection teams; arrange distribution-board thermal testing and reports; review and follow up on corrective work; prepare electrical drawings and SLDs; support design, installation, and maintenance of factory distribution systems, substations, and lightning-protection systems; coordinate inspections with customers and Bureau Veritas Bangladesh; prepare estimates, cost breakdowns, work plans, and worker assignments. |
 | Jan 2011–Jan 2012 | Sub-Assistant Engineer | YKK Bangladesh Ltd., Dhaka EPZ, Bangladesh | Perform routine and preventive electrical maintenance; troubleshoot faults; support production targets; supervise technicians and support staff; maintain quality and electrical-safety compliance; document maintenance, troubleshooting, and quality-control activities; coordinate with production and engineering teams. |
-
-## Selected Marine Project Experience
-
-| No. | Project / Vessel Category | Quantity |
-|---:|---|---:|
-| 1 | PPA 70-Ton Bollard Pull Tug Boats | 2 |
-| 2 | Bangladesh Navy Landing Craft Tank (BN LCT) | 3 |
-| 3 | PPA Pilot Vessels | 2 |
-| 4 | PPA Heavy-Duty Speed Boats | 2 |
-| 5 | Bangladesh Coast Guard 70-Ton Floating Crane | 1 |
-| 6 | High-Speed Boats | 6 |
-| 7 | Fisheries Research Boat | 1 |
-| 8 | Bangladesh Navy Patrol Vessels | 5 |
-| 9 | BIWTA Crane Support Vessels / Crane Boats | 4 |
-| 10 | BIWTA 24-Inch Cutter Suction Dredgers | 4 |
-
-*Individual vessel names and hull numbers are not specified in the CV/project information currently available. They have not been invented.*
 
 ## Education
 

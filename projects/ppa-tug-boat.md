@@ -76,6 +76,33 @@ Detailed principal particulars have not yet been confirmed for this public portf
 
 ---
 
+## 🏆 Project Achievement and Recognition
+
+### Appreciation Letter from the Managing Director, Khulna Shipyard Ltd.
+
+I was honored to receive an **Appreciation Letter from Rear Admiral Mohammad Maksud Alam, Managing Director, Khulna Shipyard Limited**, in recognition of my contribution to the electrical works of the 70-Ton Bollard Pull Tug Boat project for Payra Port Authority.
+
+During the project, approximately **22,000 metres of various types of electrical cables** were identified as required for the Fire Fighting System and other associated systems. Considering the project schedule and the quotation received for new cable procurement, I took the initiative to review and technically verify the leftover cables available in Khulna Shipyard.
+
+Through detailed verification, approximately **12,000 metres of leftover cable** were identified as suitable for use in the vessel. Based on the received quotation, the estimated market value of these cables was approximately **BDT 1.11 crore**.
+
+This initiative supported effective utilization of existing resources, reduced the requirement for new cable procurement, and offered significant potential cost savings for the organization.
+
+**Key contribution at a glance**
+
+| Achievement | Details |
+|---|---|
+| Recognition | Appreciation Letter from the Managing Director, KSY |
+| Project | 70-Ton Bollard Pull Tug Boat for PPA |
+| Cable requirement reviewed | Approximately 22,000 metres |
+| Leftover cable technically verified as suitable | Approximately 12,000 metres |
+| Estimated market value of suitable leftover cable | Approximately BDT 1.11 crore |
+| Organizational benefit | Better resource utilization and reduced new-procurement requirement |
+
+*The figures above are approximate and reflect the project information provided. They describe estimated value and potential savings, not a confirmed cash saving or final audited saving.*
+
+---
+
 ## 🧰 Technical Expertise Demonstrated
 
 **Marine Electrical Engineering • Electrical Installation Coordination • Cable Works • Equipment Integration • Electrical Troubleshooting • Technical Documentation • Work Progress Monitoring • Inspection Support • Testing & Commissioning Support • Shipbuilding Coordination**

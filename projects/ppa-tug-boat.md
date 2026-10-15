@@ -1,5 +1,7 @@
 # 🚢 02 × 70-Ton Bollard Pull Tug Boats
 
+<p align="center"><img src="https://avatars.githubusercontent.com/u/342561358?v=4" alt="S. M. Hasib profile picture" width="140" height="140" style="border-radius:50%;" /></p>
+
 <!-- Add an approved project photograph here after uploading it to the repository's images/ folder. Do not use third-party project photos as your own. -->
 
 **Electrical Project Coordination | Marine Electrical Installation | Equipment Integration | Cable Works | Testing & Commissioning Support**
@@ -67,12 +69,12 @@ Detailed principal particulars have not yet been confirmed for this public portf
 | Vessel Quantity | 02 |
 | Hull Numbers | NB-786 and NB-787 |
 | Bollard Pull | 70 Ton |
-| Vessel Type / Propulsion Type | Confirm exact approved designation |
-| Length Overall (LOA) | Not added — verification required |
-| Breadth | Not added — verification required |
-| Depth | Not added — verification required |
-| Draft | Not added — verification required |
-| Speed | Not added — verification required |
+| Vessel Type / Propulsion Type | ASD Tug Boat |
+| Length Overall (LOA) | 37.70 m |
+| Breadth | 11.00 m |
+| Depth | 6.10 m |
+| Draft | 5.00 m |
+| Speed | 12 knots |
 
 ---
 
